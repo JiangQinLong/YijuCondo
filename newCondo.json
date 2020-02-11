@@ -1,0 +1,51 @@
+  
+[
+	{
+		"Picture": "Assume this is a picture 1",
+		"Title": "666 condo apartment",
+		"Location": "28 Dundas street west",
+		"Price": "399,999" ,
+		"Developer": "Goodlife Fitness" 
+	}
+
+	{
+		"Picture": "Assume this is a picture 2",
+		"Title": "55 sick street house",
+		"Location": "hot dog bun city",
+		"Price": "899,999" ,
+		"Developer": "Anytime Fitness" 
+	}
+
+	{
+		"Picture": "Assume this is a picture 3",
+		"Title": "David Beckham Condo",
+		"Location": "Super Ball cineplex",
+		"Price": "199,200" ,
+		"Developer": "LA Fitness" 
+	}
+
+	{
+		"Picture": "Assume this is a picture 4",
+		"Title": "Angrey Bird paradise",
+		"Location": "Bird Nest toronto",
+		"Price": "348,543" ,
+		"Developer": "World Gym Fitness" 
+	}
+
+	{
+		"Picture": "Assume this is a picture 5",
+		"Title": "Pizza Nova Combo",
+		"Location": "St Catharines",
+		"Price": "599,999" ,
+		"Developer": "Goodlife Fitness" 
+	}
+
+	{
+		"Picture": "Assume this is a picture 6",
+		"Title": "McDonald Resturant",
+		"Location": "Toronto",
+		"Price": "359,669" ,
+		"Developer": "LA Fitness" 
+	}
+
+]
